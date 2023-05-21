@@ -1,1 +1,0 @@
-{"mappings":"AAAA;;;;;;;;;;AAUA","sources":["styles.css"],"sourcesContent":["body {\n  background-color: black;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  height: 100vh;\n  margin: 0;\n  overflow: hidden;\n}\n\ncanvas {\n  width: 70%;\n  height: 70%;\n}\n"],"names":[],"version":3,"file":"index.1303bb05.css.map","sourceRoot":"/__parcel_source_root/"}
